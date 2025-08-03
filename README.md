@@ -1,10 +1,43 @@
-- 👋 Hi, I’m Rahul
-- 👀 I’m interested in data structures, website development,app development,artificial intelligence and blockchain.
-- 🌱 I’m currently learning Webdev and data structure
-- 💞️ I’m looking to collaborate on web dev,app dev or any other tech project where i can use my learning.
-- 📫 you can reach out to me through email-sar.bah.rah@gmail.com
+# Hi, I'm Rahul Singh 👋
 
-<!---
-Rahubroo/Rahubroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI Engineer | Python | ML | DL | Generative AI | FastAPI**
+
+---
+
+## 👨‍💻 About Me
+
+Passionate about transforming ideas into intelligent solutions.  
+As an AI Engineer, I specialize in building and deploying cutting-edge machine learning and deep learning models, with a keen interest in generative AI and scalable API development using FastAPI.
+
+> “Empowering innovation through intelligent automation.”
+
+---
+
+## 🚀 Skills
+
+- **Languages & Frameworks:** Python, FastAPI
+- **AI & Data:** Machine Learning, Deep Learning, Generative AI
+- **Others:** Model Deployment, API Design
+
+---
+
+## 📂 Projects
+
+*Coming soon!*  
+Stay tuned for innovative AI projects.
+
+---
+
+## 🎶 Hobbies
+
+When I'm not engineering AI, you'll find me playing music or enjoying a riveting cricket match.
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-singh-8603322a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+*Feel free to reach out for collaboration or just to say hi!*
